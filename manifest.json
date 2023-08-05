@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": " QR Generator",
+  "version": "1.0",
+  "description": "Create a QR code",
+  "icons": {
+    "16": "./src/img/icon.png",
+    "48": "./src/img/icon.png",
+    "128": "./src/img/icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
